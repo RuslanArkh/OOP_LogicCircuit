@@ -1,0 +1,10 @@
+SET_INPUT a false
+SET_INPUT b true
+SET_INPUT c false
+SET_INPUT d true
+SET_INPUT h true
+SET_INPUT f true
+SET_INPUT a1 false
+SET_INPUT a2 false
+SET_INPUT a3 false
+SHOW_PORT q
